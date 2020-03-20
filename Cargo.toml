@@ -1,0 +1,8 @@
+[package]
+name = "prettylister"
+version = "0.1.0"
+authors = ["Matthew Gordon <matthew@gordon.earth>"]
+edition = "2018"
+
+[dependencies]
+rustop = "1.0"
