@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 rustop = "1.0"
+syntect = "3.3"
